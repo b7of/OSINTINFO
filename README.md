@@ -14,7 +14,7 @@ Collector is a OSINT tool and information gathering. I build this tool for my fu
 
 # Install 
 ```
-git clone https://github.com/galihap76/collector.git
+git clone https://github.com/b7of/OSINTINFO
 cd collector 
 pip install -r requirements.txt
 ```
