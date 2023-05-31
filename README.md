@@ -2,7 +2,7 @@
 
 <hr>
 
-# EL3ARABY 🔎 🕵️‍♂️
+# EL3ARABY (collector) 🔎 🕵️‍♂️
 
 ![version-3.8](https://img.shields.io/badge/version-3.8-green)
 [![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)](https://img.shields.io/badge/license-GPLv3-blue)
